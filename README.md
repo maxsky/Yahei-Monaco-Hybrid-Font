@@ -1,4 +1,4 @@
-# Yahei Monaco Hybird 混合字体
+# Yahei Monaco Hybrid 混合字体
 
 ## 更新说明
 
